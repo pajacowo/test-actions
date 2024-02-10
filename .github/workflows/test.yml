@@ -23,4 +23,4 @@ jobs:
       with:
         server: ftp.h5765324.hostingrd.pl
         username: test-pajacowo-pl@h5765324.hostingrd.pl
-        password: ${{ secrets.password }}
+        password: Pajacowo123!
