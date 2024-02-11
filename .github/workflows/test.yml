@@ -28,3 +28,10 @@ jobs:
     - run: npm test
     - run: npm run build --if-present
 
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      with:
+        server: ftp.h5765324.hostingrd.pl
+        username: test-pajacowo-pl@test.pajacowo.pl.h5765324.hostingrd.pl
+        password: Pajacowo123!
+        dry-run: true
