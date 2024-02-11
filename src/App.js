@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test github automation v5
+          Test github automation v6
         </p>
         <a
           className="App-link"
