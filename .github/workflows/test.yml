@@ -33,3 +33,4 @@ jobs:
         server: ftp.h5765324.hostingrd.pl
         username: test-pajacowo-pl@test.pajacowo.pl.h5765324.hostingrd.pl
         password: Pajacowo123!
+        local-dir: ./build/
