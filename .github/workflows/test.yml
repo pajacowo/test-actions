@@ -34,5 +34,4 @@ jobs:
         server: ftp.h5765324.hostingrd.pl
         username: test-pajacowo-pl@test.pajacowo.pl.h5765324.hostingrd.pl
         password: Pajacowo123!
-        dangerous-clean-state: true
-        
+        local-dir: ./bulid/
