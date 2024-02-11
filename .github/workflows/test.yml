@@ -34,3 +34,4 @@ jobs:
         username: test-pajacowo-pl@test.pajacowo.pl.h5765324.hostingrd.pl
         password: Pajacowo123!
         dangerous-clean-slate: true
+        local-dir: ./build/
